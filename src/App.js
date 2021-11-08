@@ -3,6 +3,7 @@ import Navbar from './comps/Navbar'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import AddBlog from './comps/AddBlog'
 import BlogPage from './comps/BlogPage';
+import About from './comps/About';
 
 function App() {
   return (
@@ -13,6 +14,10 @@ function App() {
         <Switch>
           <Route exact path='/'>
             <Home />
+          </Route>
+
+          <Route exact path='/about'>
+            <About />
           </Route>
 
           <Route path='/add'>

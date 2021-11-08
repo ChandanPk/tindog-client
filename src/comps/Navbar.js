@@ -5,7 +5,7 @@ export default function Navbar(){
             <h1>Tindog</h1>
             <ul>
                 <Link to="/">HOME</Link>
-                <Link to="/">ABOUT</Link>
+                <Link to="/about">ABOUT</Link>
                 <Link to="/add">NEW BLOG</Link>
             </ul>
         </nav>
