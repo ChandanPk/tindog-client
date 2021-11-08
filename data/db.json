@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "WWE",
+      "body": "World Wrestling Entertainment, Inc., d/b/a WWE, is an American integrated media and entertainment company[5][6] that is primarily known for professional wrestling. WWE has also branched out into other fields, including film, American football, and various other business ventures. The WWE name also refers to the professional wrestling promotion itself, which was founded in 1953 as the Capitol Wrestling Corporation. It is the largest wrestling promotion in the world, holding over 450 live events a year, with the roster primarily divided up into three globally traveling brands, and is available to 900 million homes worldwide in 28 languages. The company's global headquarters is located in Stamford, Connecticut,[7] with offices in New York, Los Angeles, London, Mexico City, Mumbai, Shanghai, Singapore, Dubai, Munich, and Tokyo.",
+      "founder": "Mr.Mcmahon",
+      "id": 1
+    },
+    {
+      "title": "AEW",
+      "body": "All Elite Wrestling (AEW) is an American professional wrestling promotion founded in 2019.[1] Its inception was announced by Shahid Khan and his son Tony, with the former acting as the promotion's lead investor, and the latter being the founder, president and CEO of the company.[7][8] Professional wrestlers Cody Rhodes, Matt and Nick Jackson, and Adam Page, collectively known as The Elite, were the promotion's inaugural contracted talents. Rhodes and the Jacksons are serving as both in-ring performers and executive vice presidents alongside Kenny Omega, fellow professional wrestler and co-founder of The Elite.[",
+      "founder": "Tony Khan",
+      "id": 2
+    },
+    {
+      "title": "Smackdown Live",
+      "body": "SmackDown is a brand of the U.S. based professional wrestling promotion WWE. The brand was first established on March 25, 2002 with a draft on Monday Night Raw and went into effect one week later on April 4. The brand would be discontinued for a period between August 2011 and July 2016 Wrestlers assigned to the SmackDown brand wrestle predominantly on WWE's weekly Friday Night SmackDown television program on Fox, as well as branded and co-branded pay-per-view events and WWE Network events. The brand has also appeared in the Mixed Match Challenge and the interbrand",
+      "founder": "Shane Mcmahon",
+      "id": 3
+    },
+    {
+      "title": "Ring Of Honor",
+      "body": "Ring of Honor Wrestling Entertainment, LLC, known simply as Ring of Honor (ROH), is an American professional wrestling promotion based in Baltimore, Maryland. It is a subsidiary of the Sinclair Broadcast Group.[4][3] Ring of Honor was originally founded by Rob Feinstein on February 23, 2002, but would be under the ownership of Cary Silkin from 2004 until 2011, when the promotion was sold to Sinclair.",
+      "founder": "Rahul Subramanium",
+      "id": 4
+    },
+    {
+      "title": "adsfsdf",
+      "author": "dabfasd",
+      "body": "kdfhksf",
+      "id": 0.18822374576441825
+    },
+    {
+      "title": "adsfsdf",
+      "author": "dabfasd",
+      "body": "kdfhksf",
+      "id": 0.30711302733581824
+    },
+    {
+      "title": "fsdfsd",
+      "author": "hvb",
+      "body": "gvngng",
+      "id": 0.7524569568310131
+    }
+  ]
+}
