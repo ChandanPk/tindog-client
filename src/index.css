@@ -140,97 +140,47 @@ nav > h1 {
   font-size: 1rem;
 }
 
+.btn {
+  border: 1px solid var(--primary-color);
+  border-radius: 5px;
+  padding: .6em 1.1em;
+  background-color: #fff;
+  color: red;
+  font-size: 1rem;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+.btn:hover {
+  color: #fff;
+  background: var(--primary-color);
+  cursor: pointer;
+}
+
 .preview button:hover {
   color: #fff;
   background: var(--primary-color);
   cursor: pointer;
 }
 
-.about {
-  margin-top: 20px;
+/* Form styling */
 
+.field {
+  display: block;
+  padding: 1em;
+  margin-top: 1em;
+  width: 100%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* a {
-  display: inline-block;
-  text-decoration: none;
-  color: #555;
-  font-weight: 600;
-  padding: .5em;
-  border: 1px solid rgba(95,148,119,0.68);
-  margin-right: 5px;
-  border-radius: 5px;
-}
-
-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.App {
-  max-width: 700px;
-  margin: auto;
-}
-
-nav > h1 {
+.add-blog-header {
   font-size: 2.3rem;
+  font-weight: 900;
 }
 
-.home > h3 {
-  font-size: 1.5rem;
-  margin-left: 10px;
+.body-field {
+  height: 20vh;
 }
 
-.blog-sec {
-  margin-bottom: 20px;
-  padding: .5em 1em;
-  box-shadow: -1px 3px 6px 1px rgba(95,148,119,0.68);
+.form {
+  margin-top: 4rem;
 }
-
-.blog-sec > h3 {
-}
-
-.blog-sec > p {
-  margin: 0;
-} */
